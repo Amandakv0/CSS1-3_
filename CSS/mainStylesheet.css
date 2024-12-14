@@ -1,0 +1,133 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 48px 0px 240px 67px;
+}
+#headerDiv{
+    width: 100%;
+    max-width: 1220px;
+    text-align: center;
+    margin-bottom: 63px;
+    margin: 0 auto;
+}
+h1{
+    display: inline-block;
+    font-size: 72px;
+    font-weight: 700;
+    color: #000;
+    margin-bottom: 53px;
+}
+#headerP{
+    color: #FF8000;
+    font-size: 24px;
+    font-weight: 700;
+}
+#firstCOntainer{
+    width: 100%;
+    max-width: 696px;
+    display: inline-block;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+#bigBang{
+    color: #D9AE00;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: left;
+    margin-bottom: 24px;
+}
+#bangParag{
+    text-align: left;
+    font-size: 24px;
+    color: #6D81B4;
+    margin-bottom: 30px;
+}
+#seconCOntaienr{
+    margin-bottom: 100px;
+    margin-top: 100px;
+    text-align: center;
+    padding: 64px;
+    width: 100%;
+    max-width: 1010px;
+    border-top: 2px solid #000;
+    border-left: 2px solid #000;
+    background: #FFCEBE;
+}
+#secondHeader{
+    color: #F44E50;
+    font-size: 40px;
+    font-weight: 900;
+    margin-bottom: 24px;
+}
+#holePaag{
+    color: 38B2B2C;
+    font-size: 20px;
+    font-weight: 500;
+}
+#thirdImg{
+    width: 100%;
+    height: 100%;
+    margin-top: 30px;
+}
+#thirdContaniner{
+    width: 100%;
+    max-width: 700px;
+}
+#thirdHeader{
+    color: #4716E4;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: right;
+    margin-bottom: 24px;
+}
+#stringFrame{
+    border: 3px solid #FF5DA3;
+    background: #FFC1E3;
+    padding: 24px;
+    margin-bottom: 30px;  
+}
+#stringParag{
+    color: #616161;
+    font-size: 24px;
+    text-align: right;
+}
+#lisstDiv{
+    margin-bottom: 30px;
+}
+#keyPoints{
+    margin-bottom: 16px;
+    color: #414651;
+    font-size: 24px;
+    font-weight: 800;
+}
+#firstListedItemDiv, #secondListedItemFrame{
+    margin-bottom: 8px;
+    width: 100%;
+    max-width: 650px;
+    display: inline-block;
+    vertical-align: middle;
+}
+#thirdListedITmeFrame{
+    width: 100%;
+    max-width: 650px;
+    display: inline-block;
+    vertical-align: middle;
+}
+#circle, #secondCIrcel, #thirdCircle{
+    vertical-align: middle;
+    margin-right: 8px;
+    display: inline-block;
+}
+#firstItem, #secondItem, #thirItem{
+    color: #C27512;
+    font-size: 16px;
+    display: inline-block;
+}
+#thirdImg{
+    margin-top: 30px;
+    width: 100%;
+    height: 100%;
+}
